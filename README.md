@@ -10,13 +10,13 @@ La missione è stata sviluppata analizzando e confrontando due diverse architett
     * **Durata:** 5.96 anni.
     * **Delta-V Totale:** 13.43 km/s.
     * *Nota:* Richiede un impulso propulsivo elevato su Marte poiché il solo assist gravitazionale non è sufficiente.
-    * ![Descrizione della foto](full_mission_TMS.png)
+      ![Descrizione della foto](full_mission_TMS.png)
 
 2.  **Missione 2 (Alta Efficienza):** Terra ➔ Venere (Fly-by) ➔ Marte (Fly-by) ➔ Saturno.
     * **Durata:** 6.42 anni.
     * **Delta-V Totale:** 11.80 km/s.
     * *Vantaggio:* Riduzione significativa del consumo di propellente grazie a fly-by multipli.
-    * ![Descrizione della foto](full_mission_TVMS.png)
+      ![Descrizione della foto](full_mission_TVMS.png)
 
 ## Metodologia e Strumenti
 Il software è stato interamente sviluppato in **MATLAB**, implementando i seguenti concetti di meccanica orbitale:
